@@ -1,5 +1,5 @@
 import React from 'react';
-import ListaDeAnotacoes from './ListaDeAnotacoes';
+import ListaDeAnotacoes from '../ListaAnotacoes/ListaDeAnotacoes';
 
 export default class InstructorApp extends React.Component{
     render(){
